@@ -1,8 +1,8 @@
 # I'm Toni 🦖
 
-I'm a software engineer & indie dev and starting coding at around 14 years old.
+I'm an indie dev and I've started coding when I was about 14 years old.
 
-I've created many sites, most failed, some worked:
+I've created many online tools, most failed, some worked:
 
 - [HEX Editor](https://hexeditor.com) — Free online binary editor. Edit any file in your browser (since 2001)
 - [JIMPL](https://jimpl.com) — The OG image EXIF metadata viewer and remover. Free to use since 2010!
